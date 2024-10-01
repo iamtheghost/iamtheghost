@@ -39,7 +39,7 @@ I like to build D.I.Y. hardware to solve everyday problems using Arduino microco
 
 ## CMS - 
 
-I've spent a significant amount of my career implementing enterprise CMS systems, building front-ends using headless CMS such WordPress and Drupal.
+I've spent a significant amount of my career implementing enterprise CMS systems, building front-ends using headless CMS such as WordPress and Drupal.
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=flat-square&logo=Hugo) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=flat-square&logo=drupal&logoColor=white)
 
