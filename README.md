@@ -1,5 +1,5 @@
 # 🦧 About Me:
-I'm a front-end and embedded software developer from Kentucky.<br>I enjoy working on emergent web technologies, Arduino, Raspberry Pi, <br>multipurpose languages, and more.<br>I started my career in software in 2010 building client apps in a SCRUM<br>shop with Ruby on Rails. 
+I'm a front-end and embedded software developer from Kentucky.<br>I enjoy working on emergent web technologies, Arduino, Raspberry Pi, <br>multipurpose languages, and more.<br>I started my career in software in 2010 building client apps in a Scrum<br>shop with Ruby on Rails. 
 
 
 # 💻 Things I Like To Use:
